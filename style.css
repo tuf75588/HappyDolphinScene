@@ -1,0 +1,18 @@
+body {
+  background: #26262b;
+
+  width: 100vw;
+  height: 100vh;
+
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+#dolphin-container {
+  position: absolute;
+}
+.rare-dolphin {
+  height: 56px;
+  width: 56px;
+}
